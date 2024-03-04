@@ -26,7 +26,7 @@ public class spiral_matrix {
                 System.out.print(matrix[Endrow][i] + " ");
             }
 
-            //left
+            //Left
             for (int j = Endrow - 1; j >= Startrow + 1; j--) {
                 if (Startcol == Endcol) {
                     break;
