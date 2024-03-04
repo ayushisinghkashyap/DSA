@@ -33,7 +33,7 @@ public class array2_1 {
             }
             System.out.println();
         }
-        search(matrix , 5);              
+        search(matrix , 5);       //key=5       
 
     }
 }
