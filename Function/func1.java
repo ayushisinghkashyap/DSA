@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 public class func1 {
     public static void noReturn(int n){ 
         System.out.println("No return needed. "+ n);
@@ -22,6 +22,4 @@ public class func1 {
         //SOUT is used to print return value
     }
 }
-=======
-Sys,
->>>>>>> 8cb0ed65ae71264e868757d817c95cfb2bf0b97b
+
